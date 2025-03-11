@@ -1,4 +1,4 @@
-# Capstone Module 5
+# Applied Statistics
 
 ### **1. What is a vector in mathematics?**
 
