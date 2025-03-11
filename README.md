@@ -1,4 +1,4 @@
-# Applied Statistics
+# Applied Statistics Interview Grid
 
 ### **1. What is a vector in mathematics?**
 
